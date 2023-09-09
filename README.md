@@ -1,4 +1,4 @@
-# [sealchop-image-api](/)
+# [sealchop-image-api](https://about.sealchop.com/)
 
 # **SEALCHOP** is a simple Chinese seal chop image Web API. You can create Chinese or Korean seal chops.
 
